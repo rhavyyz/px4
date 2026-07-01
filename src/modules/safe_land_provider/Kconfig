@@ -1,0 +1,5 @@
+menuconfig MODULES_SAFE_LAND_PROVIDER
+	bool "safe_land_provider"
+	default n
+	---help---
+		Enable support for safe_land_provider
